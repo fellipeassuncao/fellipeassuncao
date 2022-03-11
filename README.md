@@ -25,23 +25,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!-- display the social media buttons in your README -->
-[![alt text][1.1]][1]
+### 📰 Recent Blog Posts
+{{ range rss "https://medium.com/feed/@felipemassuncao" 5 }}
+- [{{ .Title }}]({{ .URL }})
+{{- end }}
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
+### 📫 How to reach me:
 
-<!-- icons with padding -->
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-
-<!-- icons without padding -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-[1]: http://www.twitter.com/fellipeassuncao
-
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+- Website: [felipeassuncao.com.br](https://felipeassuncao.com.br/)
+- Email: [felipemassuncao@gmail.com](mailto:felipemassuncao@gmail.com)
+- Twitter: [@fellipeassuncao](https://twitter.com/fellipeassuncao)
