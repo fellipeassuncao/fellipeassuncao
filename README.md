@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellipeassuncao&show_icons=true&theme=radical)](https://github.com/fellipeassuncao/github-readme-stats)
 
-### Hi, I'm Felipe Assunção! 👋
+### 👋 Hi, I'm Felipe Assunção!
 
 - 🔭 I’m currently working on Data Science Project focused to Digital Transformation at Fundep / UFMG and teaching Informatics
 - 🌱 I’m currently studying Master in Informatics and Learning about Computer Vision, Natural Language Processing
@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 -->
 
 
-### 📰 Recent Blog Posts
-{{ range rss "felipemassuncao.medium.com/feed" 5 }}
-- [{{ .Title }}]({{ .URL }})
-{{- end }}
+### 📰 Medium Articles
+
+- Medium: [https://medium.com/@felipemassuncao](https://medium.com/@felipemassuncao)
 
 ### 📫 How to reach me:
 
