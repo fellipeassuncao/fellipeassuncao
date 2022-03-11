@@ -1,6 +1,6 @@
 ### Hi, I'm Felipe Assunção! 👋
 
-- 🔭 I’m currently working on Data Science Project turned to Digital Transformation at Fundep / UFMG and teaching Informatics
+- 🔭 I’m currently working on Data Science Project focused to Digital Transformation at Fundep / UFMG and teaching Informatics
 - 🌱 I’m currently studying Master in Informatics and Learning about Computer Vision, Natural Language Processing
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with my experience with Data Modeling and Education
