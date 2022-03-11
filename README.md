@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - Website: [felipeassuncao.com.br](https://felipeassuncao.com.br/)
 - Email: [felipemassuncao@gmail.com](mailto:felipemassuncao@gmail.com)
 - Twitter: [@fellipeassuncao](https://twitter.com/fellipeassuncao)
-- Instagram: [@prof.felipeassuncao](https://twitter.com/fellipeassuncao)
+- Instagram: [@prof.felipeassuncao](https://instagram.com/prof.felipeassuncao)
