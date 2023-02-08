@@ -5,12 +5,13 @@
 ### 👋 Hi, I'm Felipe Assunção!
 
 - 🔭 I’m currently working on Data Science Project focused to Digital Transformation at Fundep / UFMG and teaching Informatics
-- 🌱 I’m currently studying Master in Informatics and Learning about Computer Vision, Natural Language Processing
+- 🌱 I have a Master's degree in Informatics in the Computer Vision area
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with my experience with Data Modeling and Education
 - 💬 Ask me about Education, Photography, Music and Python
 - 📫 How to reach me: Give me chocos and gifts
 - 😄 Pronouns: He / Him
+- ⚡ Fun fact: I'm abble to sing and take photos
 
 <!--
 **fellipeassuncao/fellipeassuncao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
