@@ -4,9 +4,9 @@
 
 ### 👋 Hi, I'm Felipe Assunção!
 
-- 🔭 I’m currently working on Data Science Project focused to Digital Transformation at Fundep / UFMG and teaching Informatics
-- 🌱 I have a Master's degree in Informatics in the Computer Vision area
-- 👯 I’m looking to collaborate on Data Science Projects
+- 🔭 I’m currently working on Computer Vision Project focused in Hospitalar Object Detection and teaching Informatics
+- 🌱 I have a Master's degree in Informatics in Computer Vision area
+- 👯 I’m looking to collaborate on Data Science / Machine Learning Projects
 - 🤔 I’m looking for help with my experience with Data Modeling and Education
 - 💬 Ask me about Education, Photography, Music and Python
 - 📫 How to reach me: Give me chocos and gifts
