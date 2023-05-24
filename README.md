@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=fellipeassuncao&label=PROFILE+VIEWS)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellipeassuncao)](https://github.com/fellipeassuncao/github-readme-stats)
 
 ### 👋 Hi, I'm Felipe Assunção!
