@@ -4,14 +4,14 @@
 
 ### 👋 Hi, I'm Felipe Assunção!
 
-- 🔭 I’m currently working on Computer Vision Project focused in Hospitalar Object Detection and teaching Informatics
-- 🌱 I have a Master's degree in Informatics in Computer Vision area
+- 🔭 I’m currently working on a Data Science project and teaching Informatics
+- 🌱 I have a Master's degree in Informatics in the Computer Vision area
 - 👯 I’m looking to collaborate on Data Science / Machine Learning Projects
 - 🤔 I’m looking for help with my experience with Data Modeling and Education
 - 💬 Ask me about Education, Photography, Music and Python
 - 📫 How to reach me: Give me chocos and gifts
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'm abble to sing and take photos
+- ⚡ Fun fact: I'm able to sing and take photos
 
 <!--
 **fellipeassuncao/fellipeassuncao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### 📰 Medium Articles
 
 - Medium: [https://medium.com/@felipemassuncao](https://medium.com/@felipemassuncao)
+
+### Infoxzone (My new blog <3)
+
+- Website: [infoxzone.com.br](https://infoxzone.com.br/)
 
 ### 📫 How to reach me:
 
