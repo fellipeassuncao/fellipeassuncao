@@ -5,6 +5,7 @@
 ### 👋 Hi, I'm Felipe Assunção!
 
 - 🔭 I’m currently working on a Data Science project and teaching Informatics
+- 💬 Administrative Coordinator at "Laboratório Multiusuário de Computação Científica - LCC - CENAPAD- UFMG" 
 - 🌱 I have a Master's degree in Informatics in the Computer Vision area
 - 👯 I’m looking to collaborate on Data Science / Machine Learning Projects
 - 🤔 I’m looking for help with my experience with Data Modeling and Education
@@ -33,13 +34,8 @@ Here are some ideas to get you started:
 
 - Medium: [https://medium.com/@felipemassuncao](https://medium.com/@felipemassuncao)
 
-### Infoxzone (My new blog <3)
-
-- Website: [infoxzone.com.br](https://infoxzone.com.br/)
-
 ### 📫 How to reach me:
 
-- Website: [felipeassuncao.com.br](https://felipeassuncao.com.br/)
+- My Art: [felipeassuncao.com.br](https://felipeassuncao.com.br/)
 - Email: [felipemassuncao@gmail.com](mailto:felipemassuncao@gmail.com)
-- Twitter: [@fellipeassuncao](https://twitter.com/fellipeassuncao)
 - Instagram: [@prof.felipeassuncao](https://instagram.com/prof.felipeassuncao)
