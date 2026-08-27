@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 
 - My Art: [felipeassuncao.com.br](https://felipeassuncao.com.br/)
 - Email: [felipemassuncao@gmail.com](mailto:felipemassuncao@gmail.com)
-- Instagram: [@prof.felipeassuncao](https://instagram.com/prof.felipeassuncao)
+- Teacher Instagram: [@prof.felipeassuncao](https://instagram.com/prof.felipeassuncao)
+- Photography Instagram: [@felipeassuncaofotografia](https://instagram.com/felipeassuncaofotografia)
+- Personal Instagram: [@fellipeassuncao](https://instagram.com/fellipeassuncao)
